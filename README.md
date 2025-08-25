@@ -51,8 +51,11 @@
 
 ## Projects 👨🏻‍💻
 
+<a href="https://dario-ferreyra.github.io/bootcampFrontEnd-UTN-Silicon/">Piano House</a>
+
+
 <a href="https://dario-ferreyra.github.io/bootcampFrontEnd-UTN-Silicon/" target="_blank">
-  <img src="https://i.imgur.com/jYAPCJ8.png" alt="Logo de Google" width="200">
+  <img src="https://i.imgur.com/jYAPCJ8.png" alt="Logo de Google" width="800">
 </a>
 
 ##
