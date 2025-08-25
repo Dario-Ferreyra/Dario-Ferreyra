@@ -46,6 +46,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+## Projects 👨🏻‍💻
+
+<img alt="Proyecto 1" src="https://imgur.com/gallery/pagina-gif-DVBrvk8#B6Xrxtb" width='40' align="left"/>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
